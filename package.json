@@ -11,7 +11,8 @@
     "axios": "^0.19.2",
     "express": "~4.16.1",
     "http-proxy-middleware": "~1.0.3",
-    "vue": "^2.6.11"
+    "vue": "^2.6.11",
+    "vue-currency-filter": "^5.1.0"
   },
   "devDependencies": {
     "css-loader": "^3.5.3",

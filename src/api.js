@@ -15,7 +15,6 @@ export default class Api {
       .then((result) => {
         return result.data.data;
       })
-      .catch((e) => console.warn(e));
   }
 
   getDataWithParams(url, payload) {
@@ -24,6 +23,5 @@ export default class Api {
       .then((result) => {
         return result.data.data;
       })
-      .catch((e) => console.warn(e));
   }
 }
